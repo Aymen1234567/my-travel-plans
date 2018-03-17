@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
+hi there
 h2 {
     margin: 0;
     transform: rotate(-45deg);
